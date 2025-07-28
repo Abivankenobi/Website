@@ -1,4 +1,61 @@
-body{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 2em;
+header{
+    font-size: x-large;
+  font-family: "Inter","consolas", "sans-serif";
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color:black;
+  border-bottom-style: dashed;
+  border-bottom-color: black;
+  padding:1px;
+  text-align: center;
 }
+
+body{
+
+    background-image: url(assets_1.jpeg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+
+
+    font-size: 2em;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  #p2{
+    background-color: aliceblue;
+    color:black;
+    margin-right:auto;
+    margin-left:auto;
+  }
+  #p1{
+    background-color: aliceblue;
+    color:black;
+    margin-right:auto;
+    margin-left:auto;
+  }
+  #p3{
+    background-color: aliceblue;
+    color:black;
+    margin-right:auto;
+    margin-left:auto;
+  }
+  #p4{
+    background-color: aliceblue;
+    color:black;
+    margin-right:auto;
+    margin-left:auto;
+
+  }
+  #p5{
+    background-color: aliceblue;
+    color:black;
+    margin-right:auto;
+    margin-left:auto;
+  }
+}
+
